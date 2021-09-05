@@ -1,2 +1,2 @@
 # This is master branch.
-# This is feature-A branch.
+# This is fix-A branch.
